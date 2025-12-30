@@ -159,12 +159,14 @@ With Accurate Notepad, writing, learning, coding, researching, and collaborating
 
 This vision transforms the humble notepad into a powerful, accurate, and future-ready platform that adapts to every user, every workflow, and every challenge.
 
-**How to clone the repo**
-
+## How to clone the repo
+```bash
 git clone https://github.com/Iankulani/Accurate-Notepad.git
 
 cd Accurate-Notepad
+```
 
-**How to run**
-
+## How to run
+```bash
 python3 Accurate-Notepad.py
+```
